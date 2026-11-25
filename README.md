@@ -144,7 +144,7 @@ O notebook pode ser executado pelo Google Colab.
 ## 8. Estrutura do projeto
 
 ```text
-Projeto-Aprendizado-de-Maquina/
+Cammeo_e_Osmancik/
 │
 ├── Projeto_Aprendizado_Maquina.ipynb
 ├── rice_train.csv
