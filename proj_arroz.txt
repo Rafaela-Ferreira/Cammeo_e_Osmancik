@@ -1,0 +1,8 @@
+Projeto de Aprendizado de Máquina
+
+Grupo: 8 - D3 Classificação de variedades de arroz: Cammeo e Osmancik
+Integrante: Rafaela Ferreira dos Santos - CP3026353
+
+
+GitHub:https://github.com/Rafaela-Ferreira/Cammeo_e_Osmancik
+Video:https://youtu.be/TPg3B7AyU88
